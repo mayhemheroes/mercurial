@@ -1,0 +1,4 @@
+project: PROJECT
+target: bdiff_fuzzer
+cmds:
+- cmd: /out/bdiff_fuzzer
